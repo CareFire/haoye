@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Markup: Text Alignment</title>
+	<atom:link href="https://demos.famethemes.com/screenr/markup-text-alignment/feed/" rel="self" type="application/rss+xml" />
+	<link>https://demos.famethemes.com/screenr/markup-text-alignment/</link>
+	<description>Just another FameThemes Demos Sites site</description>
+	<lastBuildDate>Wed, 12 Dec 2018 16:23:36 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.8</generator>
+	<item>
+		<title>By: kk</title>
+		<link>https://demos.famethemes.com/screenr/markup-text-alignment/#comment-1252</link>
+		<dc:creator><![CDATA[kk]]></dc:creator>
+		<pubDate>Fri, 15 Dec 2017 05:36:06 +0000</pubDate>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?p=33#comment-1252</guid>
+		<description><![CDATA[This is for blog testing
+
+Justify Align
+
+This is a paragraph. It is justify aligned. It gets really mad when people associate it with Justin Timberlake. Typically, justified is pretty straight laced. It likes everything to be in it’s place and not all cattywampus like the rest of the aligns. I am not saying that makes it better than the rest of the aligns, but it does tend to put off more of an elitist attitude.]]></description>
+		<content:encoded><![CDATA[<p>This is for blog testing</p>
+<p>Justify Align</p>
+<p>This is a paragraph. It is justify aligned. It gets really mad when people associate it with Justin Timberlake. Typically, justified is pretty straight laced. It likes everything to be in it’s place and not all cattywampus like the rest of the aligns. I am not saying that makes it better than the rest of the aligns, but it does tend to put off more of an elitist attitude.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
